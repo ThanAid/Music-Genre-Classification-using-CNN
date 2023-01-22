@@ -1,4 +1,4 @@
-# Music Genre Classifiction using CNN 
+# Music Genre Classification using CNN 
 Assignement for the course "Machine Learning" offered by the Master's program in *Data Science and Machine Learning* of the National Technical University of Athens (NTUA). 
 
 # Abstract
