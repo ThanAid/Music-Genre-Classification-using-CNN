@@ -15,12 +15,12 @@ The dataset used in this paper is the *GTZAN Genre Collection*. MFCCs were extra
 # CNN Model
 Pytorch was used to implement the CNN model. Some results are presented.
 
-<div style="text-align: center;">
+<div style="img-align: center;">
 ![Training and Validation Loss per epoch of training using spectograms (Batch size 64, learning rate 0.0001)](spec2.png)
 </div>
 
 And the confusion matrix based on the predictions on the test data (15%) using the aformentioned model:
 
-<div style="text-align: center;">
+<div style="img-align: center;">
 ![Confusion Matrix on Test Data with model trained using 40 MFCCs](conf40.png)
 </div>
